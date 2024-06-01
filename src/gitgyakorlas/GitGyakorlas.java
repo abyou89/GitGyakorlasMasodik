@@ -20,37 +20,46 @@ public class GitGyakorlas {
     
     }
 
-    private static void osszegzes() {
+    private static int osszegzes() {
         
+    return 0;
+    }
+
+    private static int megszamlalas() {
+        
+        return 0;
+    }
+
+    private static int maximumKivalasztas() {
+        
+        
+        return 0;
+    }
+
+    private static int minimumKivalasztas() {
+       
+        return 0;
     
     }
 
-    private static void megszamlalas() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    private static int kivalasztas() {
+       
+    return 0;
     }
 
-    private static void maximumKivalasztas() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    private static boolean eldontes_1_vanLegalabbEgy() {
+       
+    return false;
     }
 
-    private static void minimumKivalasztas() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    private static boolean eldontes_2_mind() {
+        
+    return false;
     }
 
-    private static void kivalasztas() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
-
-    private static void eldontes_1_vanLegalabbEgy() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
-
-    private static void eldontes_2_mind() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
-
-    private static void linearisKereses() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    private static int linearisKereses() {
+        
+    return 0;
     }
     
 }
